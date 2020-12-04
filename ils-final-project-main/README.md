@@ -1,2 +1,6 @@
 # ils-final-project
-This repository contains the datasets used in our ILS-295 data management project. These datasets are meant to evaluate what affect pre-existing conditions have on COVID-19 survivability as well as how many COVID deaths evaluate pneumonia.
+
+This directory is organized by type of data used. All of the original unaltered raw data that we evaulated is stored in the directory Original-Data-Raw.
+Any Summary data that we used, such as the percent of the population who has diabetes per various ages, can be found unaltered in Collected-Summarized-Data.
+Finally, any analyzed or altered data can be found in Analyzed-Data-Files as both an Excel file or a Comma Separated Value file.
+ 
