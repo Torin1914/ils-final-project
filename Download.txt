@@ -1,0 +1,7 @@
+To download this dataset, follow these instructions.
+
+1) Click on Code on the ils-final-project directory. this is the directory that this file is in.
+
+2) Chose to download this repository as a zip, by clicking Download ZIP
+
+3) Extract the downloaded file

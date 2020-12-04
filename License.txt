@@ -1,0 +1,11 @@
+All data used in this repository was compiled from the sources listed below. Data from the CDC is licensed under Public Domain. Any analyzed or altered data on this repository falls under Creative Commons Public Domain (CC-0) and is also free for public use and may be used by anyone. You are not required to disclose any alterations to the data.
+
+Data Sources:
+
+Center for Disease Control. (2020). Conditions contributing to deaths involving coronavirus disease 2019 (COVID-19), by age group and state, United States. Retrieved 2020, from https://data.cdc.gov/NCHS/Conditions-contributing-to-deaths-involving-corona/hk9y-quqm
+
+Center for Disease Control. (2020, November 11). Provisional Death Counts for Coronavirus Disease (COVID-19). Retrieved December 04, 2020, from https://catalog.data.gov/dataset/provisional-death-counts-for-coronavirus-disease-covid-19
+
+Center for Disease Control. (2020). Provisional COVID-19 Death Counts by Sex, Age, and State. Retrieved 2020, from https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku
+
+Center for Disease Control. (2020, August 28). National Diabetes Statistics Report, 2020. Retrieved December 04, 2020, from https://www.cdc.gov/diabetes/data/statistics-report/index.html

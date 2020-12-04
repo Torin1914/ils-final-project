@@ -1,4 +1,4 @@
-This raw data was taken from sources such as the CDC because it was deemed useful for our analysis.
+This file Stores all analysis done as (.xlsx) files. All analysis was done in excel (.xlsx) files. These files will also be saved as comma seperated values (.CSV) so anyone may access it. However, much of the analysis will be inexessable in the comma seperated values (.CSV) format.
 
 This source discusses how different demographics and states were affected by covid and pneumonia. We used this source to determine how developing pneumonia impacted a COVID-19 paitents survivability.
 CDC Provisional COVID-19 data by sex, age, and state reference:
