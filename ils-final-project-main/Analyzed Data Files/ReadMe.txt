@@ -1,1 +1,0 @@
-Analyzed-Data-Files-CSV contains all analyzed data as (.CSV) files. Analyzed-Data-Files-XLSX contains all analyzed data in the (.xlsx) format. All analysis was done in excel (.xlsx) files. These files will also be saved as comma seperated values (.CSV) so anyone may access it. However, much of the analysis will be inexessable in the comma seperated values (.CSV) format.
